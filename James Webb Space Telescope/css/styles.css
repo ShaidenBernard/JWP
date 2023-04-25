@@ -1,0 +1,74 @@
+/* CSS Document */
+
+/* CSS RESET */
+* {
+	margin: 0;
+	border: 0;
+	padding: 0;
+}
+
+header {
+	padding: 3%;
+	margin-bottom: 5%;
+	background-color: black;
+	color: white;
+}
+
+nav a {
+	text-decoration: none;
+	color: white;
+	padding: 1%;
+}
+
+nav a:hover {
+	background-color: #242424;
+}
+
+nav li {
+	display: inline;
+	list-style-type: none;
+	margin: 1% ;
+	text-align: center;
+}
+
+nav ul {
+	display: block;	
+	text-align: center;
+}
+
+	/* Styles for nav top */
+
+.navtop {
+	margin-bottom: 5%;
+	text-align: center;
+}
+
+	/* Styles for nav bottom */
+
+.navbottom {
+	margin: 1%;
+	text-align: center;
+}
+
+table {
+	background-color: black;
+}
+
+p {
+	font-family: 'Source Sans Pro', sans-serif;
+}
+
+h1 {
+	font-family: 'Source Sans Pro', sans-serif;
+	margin: 1%;
+}
+
+h5,h6 {
+	font-family: 'Source Sans Pro', sans-serif;
+}
+
+footer {
+	background-color: black;
+	color: white;
+	padding: 2%;
+}
